@@ -1,6 +1,6 @@
 # ✨ Smart Motor Control with Biometric Authentication  (Haven't Matching) ✨
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+[![Tonton videonya](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/omenxuinsgd/M-ONE_ManAuto_NotMatching/blob/main/auto.mp4)
 
 ## 🌟 Overview
 **Smart Motor Control with Biometric Authentication** adalah aplikasi berbasis Python yang memadukan teknologi biometrik (deteksi wajah & verifikasi sidik jari), kontrol motor otomatis/manual, serta GUI modern berbasis PyQt6.
